@@ -4,7 +4,7 @@
  On plugin load to the server, this plugin will start generate config file at ``addons/counterstrikesharp/configs/plugins/
  ```jsonc
 {
-  "MaxHeadshotKillCount": 50 // setting how many Zeus kills require to unlock this acheivement.
+  "MaxHeadshotKillCount": 50 // setting how many headshot kills require to unlock this acheivement.
 }
  ```
 
